@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning C and C++.
+- ⚡ Fun fact: I love to play games and read mangas, especially One Piece.
+- 🔭 I’m currently working on some projects for my College (Federal University of Uberlandia)
+- 19 years of age, Brazilian
+
 <!--
 **myFIREN/myFIREN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
