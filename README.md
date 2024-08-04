@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning C and C++.
+- 🌱 I’m currently learning JavaScipt and HTML
 - ⚡ Fun fact: I love to play games and read mangas, especially One Piece.
 - 🔭 I’m currently working on some projects for my College (Federal University of Uberlandia)
 - 19 years of age, Brazilian
